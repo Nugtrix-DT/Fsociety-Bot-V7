@@ -101,9 +101,9 @@ lolKey = up.LolHumanKey
 //--Kontak
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
-+ 'FN:-·=»‡«=·- 𝕤𝔸Ｔ𝐚Ⓝ -·=»‡«=·-\n' // Nama
-+ 'ORG:♞☞  𝕊𝓐тคŇ  🐲🏆;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=50373488366:+503 7348-8366\n' // Nomor bot
++ 'FN:Nυɠƚɾιx-DT~\n' // Nama
++ 'ORG:ʄʂơƈıɛɬყ ცơɬ ۷7;\n' // Nama bot
++ 'TEL;type=CELL;type=VOICE;waid=994403722036:+994 40 372 20 36\n' // Nomor bot
 + 'END:VCARD' 
 
 
