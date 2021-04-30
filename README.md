@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/7YrrgJcMkJvtC/giphy.gif" width="250" height="280"/>
+<img src="https://media.giphy.com/media/7YrrgJcMkJvtC/giphy.gif" width="200" height="280"/>
 </p>
 
 # Fsociety-Bot-V7
